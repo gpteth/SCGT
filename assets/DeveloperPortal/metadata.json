@@ -1,0 +1,12 @@
+{
+    "name": "SCGT",
+    "symbol": "SCGT",
+    "description": "Constellation",
+    "image": "https://raw.githubusercontent.com/gpteth/SCGT/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Constellation"
+      }
+    ]
+  }
